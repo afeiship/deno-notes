@@ -22,4 +22,5 @@ deno --version
 
 ## resources
 - https://deno.land/
+- https://deno.land/manual/getting_started/installation
 - https://stackoverflow.com/questions/61851774/how-to-install-deno-on-ubuntu
